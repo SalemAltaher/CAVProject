@@ -2,7 +2,8 @@ import streamlit as st
 import pandas as pd
 import plotly.express as px
 import plotly.graph_objects as go
-
+# https://cavproject-53pkhuxf8phqrbdpm9mzuv.streamlit.app/
+# This is the link for visiting the page online
 
 @st.cache_data
 def load_data():
